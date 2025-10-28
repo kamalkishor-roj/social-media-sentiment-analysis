@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+textblob
+snscrape
+streamlit
+transformers
+torch
+wordcloud
+plotly
